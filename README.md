@@ -1,4 +1,4 @@
-# Price Range Forecast of House :house_with_garden:
+# Prediction Interval of House Price:house_with_garden:
 
 ## ＊ Introduction ＊
 1. use `customers' house browsing history` to `predict price range of houses` that customers will `click on next`.
